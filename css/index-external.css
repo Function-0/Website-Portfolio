@@ -1,0 +1,25 @@
+/*
+ * Date: 4/30/2019
+ * Filename: index-external.css
+ *
+ * Copyright (c) 2019 Ibrahim Jomaa
+ */
+
+.logo {
+  height: 1.875rem;
+  width: 1.875rem;
+}
+
+#scroll-indicator {
+  height: 0.250rem;
+  border-radius: 0;
+}
+
+svg {
+  width: 3.125rem;
+  height: 3.125rem;
+}
+
+.card-footer svg:hover {
+  fill: #007BFF;
+}
